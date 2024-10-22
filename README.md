@@ -1,7 +1,3 @@
-Sure, here's a detailed README file for your Movie Database Application project:
-
----
-
 # Movie Database Application
 
 ## Overview
@@ -137,6 +133,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [React](https://reactjs.org/) for the awesome library.
 - [Styled-Components](https://styled-components.com/) for elegant styling solutions.
 
----
-
-Feel free to adjust the sections to better fit your specific needs and details.
